@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{284:function(t,n,e){"use strict";e.r(n);var l={},c=e(35),component=Object(c.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("nuxt-img",{staticClass:"w-3/4 md:1/2",attrs:{src:"svg/logo.svg"}})}),[],!1,null,null,null);n.default=component.exports}}]);
