@@ -1,5 +1,7 @@
 <template>
-  <nuxt-img class="w-3/4 md:1/2" src="svg/logo.svg" />
+  <div class="w-4/5 md:w-1/2 md:mt-32 mb-16">
+    <nuxt-img class="w-full" src="svg/logo.svg" />
+  </div>
 </template>
 
 <script>

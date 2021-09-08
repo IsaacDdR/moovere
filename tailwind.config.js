@@ -2,8 +2,13 @@ const defaultTheme = require('tailwindcss/defaultTheme')
 module.exports = {
   theme: {
     extend: {
+      backgroundImage: (theme) => ({
+        'sm-background': "url('~/static/img/fondo01.webp')",
+
+        'lg-background': "url('~/static/img/fondo02.webp')",
+      }),
       fontFamily: {
-        sans: ['Montserrat', ...defaultTheme.fontFamily.sans],
+        sans: ['Sen', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         red: {
