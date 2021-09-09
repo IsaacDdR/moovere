@@ -122,11 +122,9 @@
             />
           </div>
           <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-            Profesional
+            Transparencia
           </h6>
-          <div class="mb-2 text-gray-700">
-            Junto con los equipos, nuestro personal son profesionales
-          </div>
+          <div class="mb-2 text-gray-700"></div>
         </div>
         <div class="px-12 text-center sm:px-0">
           <div
@@ -149,11 +147,9 @@
             />
           </div>
           <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-            Honest
+            Honestidad
           </h6>
-          <div class="mb-2 text-gray-700">
-            I have nothing to lose but something to gain.
-          </div>
+          <div class="mb-2 text-gray-700"></div>
         </div>
         <div class="px-12 text-center sm:px-0">
           <div
@@ -176,11 +172,9 @@
             />
           </div>
           <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-            Beautiful
+            Libertad
           </h6>
-          <div class="mb-2 text-gray-700">
-            White is not always light and black is not always dark.
-          </div>
+          <div class="mb-2 text-gray-700"></div>
         </div>
         <div class="px-12 text-center sm:px-0">
           <div
@@ -203,11 +197,9 @@
             />
           </div>
           <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-            Fantastic
+            Excelencia
           </h6>
-          <div class="mb-2 text-gray-700">
-            The meaning of life is to give life meaning.
-          </div>
+          <div class="mb-2 text-gray-700"></div>
         </div>
       </div>
     </div>
