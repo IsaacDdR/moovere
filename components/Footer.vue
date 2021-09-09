@@ -191,7 +191,7 @@ export default {
       android: null,
     }
   },
-  created() {
+  mounted() {
     if (navigator.userAgent.toLowerCase().includes('iphone')) this.ios = true
     if (navigator.userAgent.toLowerCase().includes('android'))
       this.android = true

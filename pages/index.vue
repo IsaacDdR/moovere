@@ -314,7 +314,7 @@
                 Agenda una cita
               </a>
               <NuxtLink
-                to="/equipos/IMOOVE"
+                to="/imoove"
                 class="
                   ml-4
                   inline-flex
@@ -784,7 +784,7 @@
                 Agenda una cita
               </a>
               <NuxtLink
-                to="/equipos/IMOOVE"
+                to="/imoove"
                 class="
                   ml-4
                   inline-flex
